@@ -28,7 +28,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Hello DevOps!</h1>
+        <h1>Hola DevOps :)</h1>
         <p>DevOps is a set of practices and cultural philosophies that aim to automate and integrate the processes of software development and IT operations. Here are some key facts about DevOps:</p>
         <ul>
             <li>DevOps promotes collaboration and communication between development and operations teams.</li>
